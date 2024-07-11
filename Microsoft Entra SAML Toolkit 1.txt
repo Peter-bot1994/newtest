@@ -1,0 +1,4 @@
+"AadClientId": "b053b69b-2553-48e1-9145-c931a9694078",
+"AadSecret": "3J58Q~NiKL7WYnXQYgrp-W39bvtUo2Dx39ZePbZr",
+"AadTenantDomain": "hmv2.onmicrosoft.com",
+"AadTenantId": "1537317c-c361-4e7e-9778-5b78817ed75e",
